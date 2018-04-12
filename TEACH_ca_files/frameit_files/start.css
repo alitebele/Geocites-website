@@ -1,0 +1,126 @@
+A:link {
+	COLOR: blue; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: blue; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: blue; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #1e6ee9; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.smallsub:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.smallsub:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.smallsub:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.smallsub-selected {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.standard {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.standardgrey {
+	FONT-SIZE: 13px; COLOR: #7a7a7a; FONT-FAMILY: verdana, arial
+}
+.standardb {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.standardblue {
+	FONT-SIZE: 13px; COLOR: #2e4471; FONT-FAMILY: verdana, arial
+}
+.standardblueb {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #2e4471; FONT-FAMILY: verdana, arial
+}
+.subheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #f7f7f7; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.subheading:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #f7f7f7; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.subheading:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #f7f7f7; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.subheading:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #f7f7f7; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.standardred {
+	FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.lilclicks {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.lilclicksb {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.supersm {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.red {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.red {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.red:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.red:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.red:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+.smred {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.smred {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.smred:hover {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+.bigred {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; FONT-FAMILY: arial
+}
+.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #2e4471; FONT-FAMILY: verdana, arial
+}
+.subheading_blue {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #2e4471; FONT-FAMILY: verdana, arial
+}
+.subheading-wh {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+.standardwh {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.standardwh:link {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.standardwh:visited {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.standardwh:hover {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+.menu {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.menu:link {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.menu:visited {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+A.menu:hover {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+.input_but1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; BACKGROUND-COLOR: #fb8821
+}
